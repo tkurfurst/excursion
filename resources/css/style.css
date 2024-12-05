@@ -20,7 +20,7 @@ h2 {
     font-size: 16px;
 }
 
-.brand {
+.copyright {
     text-align: right;
     color: gray;
 }
@@ -28,4 +28,5 @@ h2 {
 p {
     font-size: 21px;
     color: gray;
+
 }
